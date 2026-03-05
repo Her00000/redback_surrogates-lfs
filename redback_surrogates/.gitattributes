@@ -1,0 +1,5 @@
+surrogate_data/**/*.pt filter=lfs diff=lfs merge=lfs -text
+surrogate_data/**/*.keras filter=lfs diff=lfs merge=lfs -text
+surrogate_data/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+surrogate_data/**/*.npz filter=lfs diff=lfs merge=lfs -text
+surrogate_data/**/*.save filter=lfs diff=lfs merge=lfs -text
